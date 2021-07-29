@@ -33,7 +33,7 @@ body{
 
 #camera , #result{
     border: 7px solid rgb(255, 0, 0);
-    width: 330px;
+    width: 300px;
     height: 315px;
     box-shadow: 13px 13px 19px rgb(224, 101, 240);
     margin-top: 15px;
